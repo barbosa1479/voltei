@@ -21,7 +21,7 @@ Inicio
 
       Escreval(" Produtos:")
       Escreval(" O produto ", produto1, " custa R$:" , preco1 )
-      Escreval ("O produto " , produto2, " custa R$:", preco2 )
+      Escreval ("O produto " , produto2, " custa R$:", preco2:4:2 )
       
       Escreval("Codigo: " , codigo )
       
