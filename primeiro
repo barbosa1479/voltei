@@ -1,0 +1,16 @@
+Algoritmo "Primeiro de muitos"
+
+
+Var
+    x,y,z : inteiro
+
+Inicio
+
+      Escreva("Digite um numero: ")
+      Leia (x)
+      Escreva("Digite outro numero: ")
+      Leia (Y)
+      z <- (x + y)
+      Escreva("A soma dos numero é: ", z)
+
+Fimalgoritmo
